@@ -1,0 +1,27 @@
+{
+  "name": "1st",
+  "version": "1.0.0",
+  "description": "ex",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strdbr/ex1.git"
+  },
+  "author": "Emmanuel Estrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strdbr/ex1/issues"
+  },
+  "homepage": "https://github.com/strdbr/ex1#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.4.0",
+    "popper.js": "^1.14.4"
+  }
+}
